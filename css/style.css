@@ -33,6 +33,7 @@ h1, h2, h3, h4, h5, h6
 	font-weight: 600;
 	color: #222222;
 }
+
 a, a:hover, a:focus, a:active{
     outline: none;
 }
@@ -141,7 +142,7 @@ banner
 	position: relative;
 }
 .bg-color{
-	background-color: RGBA(13, 70, 83, 0.78);
+	background-color: RGBA(13, 70, 83, 0.28);
 	min-height: 650px;
 }
 .banner-info{
